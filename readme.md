@@ -100,5 +100,5 @@ You can pass style prop to customize the scroll container:
 - Works well with Chakra UI, Tailwind, or plain CSS.
 - Use correction buffer for smoother scrolling when rendering many items.
 
-[![Open in CodeSandbox](https://codesandbox.io/p/devbox/react-typescript-forked-vpv2ts?workspaceId=ws_GLzXiGXYtnVTg5vXTiP71L)
-[![GitHub](https://github.com/Atifmoin19/smart-virtual-scroll.git)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=codesandbox)](https://codesandbox.io/p/devbox/react-typescript-forked-vpv2ts?workspaceId=ws_GLzXiGXYtnVTg5vXTiP71L)
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-black?logo=github)](https://github.com/Atifmoin19/smart-virtual-scroll.git)
