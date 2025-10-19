@@ -99,3 +99,6 @@ You can pass style prop to customize the scroll container:
 - Best for large lists (>500 items).
 - Works well with Chakra UI, Tailwind, or plain CSS.
 - Use correction buffer for smoother scrolling when rendering many items.
+
+[![Open in CodeSandbox](https://codesandbox.io/p/devbox/react-typescript-forked-vpv2ts?workspaceId=ws_GLzXiGXYtnVTg5vXTiP71L)
+[![GitHub](https://github.com/Atifmoin19/smart-virtual-scroll.git)
